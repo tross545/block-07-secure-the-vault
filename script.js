@@ -1,6 +1,6 @@
-//Create a string to display the vault message to the user
+//Create a string containing the message to be presented to the user
 //Create three separate variables, each containing equations using unqiue arithmetic operators whose results equal the three numbers of the vault combination: 10 - 40 - 39
-//Create a dialog box (alert) containing the string and three variables
+//Create a dialog box (alert) containing the string and three variables to display the vault message to the user
 
 //Message to be displayed to user
 const message = "You have received this message because you have been chosen to open an important vault. Here is the secret combination:";
